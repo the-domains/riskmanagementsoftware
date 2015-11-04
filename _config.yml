@@ -1,0 +1,23 @@
+name: RiskManagementSoftware
+favicon: null
+layout_spectrum: 0.9985434736590832
+typography_spectrum: 0.04756885510869324
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8844694555737078
+  lightness: 0.17258631554432213
+  saturation: 0.4655442333314568
+  rhythmicContrast: 0.6441501372028142
+purpose: []
